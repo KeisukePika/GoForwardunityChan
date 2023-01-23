@@ -52,6 +52,9 @@ public class UIController : MonoBehaviour
                 SceneManager.LoadScene("SampleScene");
             }
         }
+
+
+        
     }
 
     public void GameOver()
